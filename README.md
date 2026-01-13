@@ -48,9 +48,11 @@ npm run build
 npm run preview
 ```
 
-Los archivos compilados están en `dist/`. Puedes subirlos a cualquier hosting estático.
+### Despliegue
 
----
+Adjuntar la carpeta `.dist` en algún hosting.
+
+En mi caso he desplegado en Netlify https://rickandmorty30101994.netlify.app/
 
 ## 🏗️ Cómo está armado
 
