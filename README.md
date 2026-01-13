@@ -52,7 +52,7 @@ npm run preview
 
 Adjuntar la carpeta `.dist` en algún hosting.
 
-En mi caso he desplegado en Netlify https://rickandmorty30101994.netlify.app/
+En mi caso he, desplegado en Netlify https://rickandmorty30101994.netlify.app/
 
 ## 🏗️ Cómo está armado
 
