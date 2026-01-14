@@ -1,6 +1,6 @@
 # Rick and Morty Buscador de Personajes 🟢🟡
 
-App simple pero funcional hecha con React para explorar personajes de Rick and Morty. Ejercicio realizado a modo de prueba técnica para Caixabank Tech para practicar React, llamadas a API y organización de código.
+Aplicación web desarrollada con React para explorar personajes de Rick and Morty.
 
 ## ¿Qué hace?
 
@@ -88,12 +88,12 @@ src/
 - Los componentes se enfocan en renderizar
 - Los hooks en traer y procesar datos
 - El servicio en hablar con la API
-- Si la API cambia, solo toco `rickMortyApi.js`
+- Si la API cambia, solo hay que modificar `rickMortyApi.js`
 
 **localStorage para personajes marcados**
 
 - No necesita backend
-- Los favoritos persisten entre sesiones
+- Los marcados persisten entre sesiones
 - Suficiente para este caso de uso
 
 **CSS puro sin librerías**
@@ -183,7 +183,7 @@ La estructura permite crecer fácilmente:
 
 ## 📄 Licencia
 
-Este proyecto es educativo y utiliza la API pública de Rick and Morty.
+Este proyecto es una prueba técnica y utiliza la API pública de Rick and Morty.
 
 ---
 
